@@ -1,4 +1,4 @@
-   <style>
+<style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -30,7 +30,7 @@
         strong {
             color: #e74c3c;
         }
-   </style>
+</style>
 <body>
 <div class="container">
         <h1>neko-shell: Альтернативный терминал системы x16-PRos с поддержкой Python</h1>

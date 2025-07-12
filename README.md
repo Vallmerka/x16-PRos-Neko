@@ -159,9 +159,13 @@ To compile the project, you will need NASM and some other pakages.
 Example command for Ubuntu:
 
 ```bash
-sudo apt install nasm
-sudo apt install mtools
-sudo apt install dosfstools
+sudo apt install nasm dosfstools mtools
+```
+
+Arch Linux:
+
+```bash
+sudo pacman -S nasm mtools dosfstools
 ```
 
 And finally:

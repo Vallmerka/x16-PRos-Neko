@@ -162,12 +162,6 @@ Example command for Ubuntu:
 sudo apt install nasm dosfstools mtools
 ```
 
-Arch Linux:
-
-```bash
-sudo pacman -S nasm mtools dosfstools
-```
-
 And finally:
 
 ```bash
